@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_style">
+    <sys_ux_style action="DELETE">
+        <name>U4 Next Experience UX Style</name>
+        <style>{&#13;
+    "base": {&#13;
+        "--now-color--neutral": "41,62,64",&#13;
+        "--now-color--primary": "41,62,64",&#13;
+        "--now-color--secondary": "114,128,139",&#13;
+        "--now-color_chrome--brand": "41,62,64"&#13;
+        &#13;
+},&#13;
+    "properties": {&#13;
+        "--now-color_brand--neutral": "41,62,64",&#13;
+        "--now-color_chrome--brand-text": "255,255,255",&#13;
+        "--now-color_brand--primary": "41,62,64",&#13;
+        "--now-color_brand--secondary": "28,42,44",&#13;
+        "--now-unified-nav_header--background-color": "41,62,64",&#13;
+        "--now-unified-nav_header--color": "255,255,255",&#13;
+        "--now-unified-nav_menu--background-image-alpha": "0.0",&#13;
+        "--now-unified-nav_menu-scrollbar--color" : "120,133,135",&#13;
+        "--now-unified-nav_menu--background-color" : "41,62,64"&#13;
+}&#13;
+}</style>
+        <sys_class_name>sys_ux_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-11 11:02:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6c22415447113110782f0592e36d4303</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>U4 Next Experience UX Style</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_style_6c22415447113110782f0592e36d4303</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-11 11:02:46</sys_updated_on>
+        <type>core</type>
+    </sys_ux_style>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>5a90e5b1db827fc49df22f17d496199e</instance_id>
+        <instance_name>dev87516</instance_name>
+        <name>sys_ux_style_6c22415447113110782f0592e36d4303</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_style"><sys_ux_style action="INSERT_OR_UPDATE"><name>U4 Next Experience UX Style</name><style>{&#13;
+    "base": {&#13;
+        "--now-color--neutral": "41,62,64",&#13;
+        "--now-color--primary": "41,62,64",&#13;
+        "--now-color--secondary": "114,128,139",&#13;
+        "--now-color_chrome--brand": "41,62,64"&#13;
+        &#13;
+},&#13;
+    "properties": {&#13;
+        "--now-color_brand--neutral": "41,62,64",&#13;
+        "--now-color_chrome--brand-text": "255,255,255",&#13;
+        "--now-color_brand--primary": "41,62,64",&#13;
+        "--now-color_brand--secondary": "28,42,44",&#13;
+        "--now-unified-nav_header--background-color": "41,62,64",&#13;
+        "--now-unified-nav_header--color": "255,255,255",&#13;
+        "--now-unified-nav_menu--background-image-alpha": "0.0",&#13;
+        "--now-unified-nav_menu-scrollbar--color" : "120,133,135",&#13;
+        "--now-unified-nav_menu--background-color" : "41,62,64"&#13;
+}&#13;
+}</style><sys_class_name>sys_ux_style</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-11 11:02:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6c22415447113110782f0592e36d4303</sys_id><sys_mod_count>0</sys_mod_count><sys_name>U4 Next Experience UX Style</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_style_6c22415447113110782f0592e36d4303</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-11 11:02:46</sys_updated_on><type>core</type></sys_ux_style></record_update>]]></payload>
+        <payload_hash>-190139102</payload_hash>
+        <record_name>U4 Next Experience UX Style</record_name>
+        <reverted_from/>
+        <source>f439555b47413110782f0592e36d43df</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-11 11:02:46</sys_created_on>
+        <sys_id>d932415447113110782f0592e36d4309</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a83e87d3c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-11 11:02:46</sys_updated_on>
+        <type>UX Style</type>
+        <update_guid>11324154a7113110bfbb87efde88b609</update_guid>
+        <update_guid_history>11324154a7113110bfbb87efde88b609:-190139102</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-11 11:07:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_style">sys_ux_style</sys_db_object>
+        <sys_id>00ba76216c9848afbd06e36534be46f9</sys_id>
+        <sys_metadata>6c22415447113110782f0592e36d4303</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>U4 Next Experience UX Style</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_style_6c22415447113110782f0592e36d4303</sys_update_name>
+        <sys_update_version display_value="sys_ux_style_6c22415447113110782f0592e36d4303">d932415447113110782f0592e36d4309</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-11 11:07:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
